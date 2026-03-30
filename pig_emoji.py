@@ -15,5 +15,5 @@ while position<len(track)-1:
 			print("_",end="")
 	print()
 	time.sleep(0.5)
-print("\n恭喜!小猪跑到终点了! ")
+print("\n恭喜!小猪跑到终点了!👏 ")
 input("按 Enter 键关闭窗口...")
